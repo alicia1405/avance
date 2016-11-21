@@ -11,10 +11,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Marko
- */
+
 public class Registros extends javax.swing.JFrame {
 
     /**
